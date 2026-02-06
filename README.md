@@ -1,1 +1,3 @@
 # odin-recipes
+A brief Introduction:
+Hello, this is my first project on the odin platform. I will be demonstratuing some skills like: creating and managing projects on github, witing web pages, etc... 
